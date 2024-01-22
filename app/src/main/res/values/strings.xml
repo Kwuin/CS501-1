@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">HW1java</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">Unclicked</string>
+    <string name="second_fragment_label">Clicked</string>
+    <string name="next">Say hello</string>
+    <string name="previous">Previous</string>
+
+    <string name="lorem_ipsum">
+       Hello World!
+    </string>
+</resources>
